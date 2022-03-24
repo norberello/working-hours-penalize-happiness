@@ -7,12 +7,12 @@ Fitting different lineal, quadratic and cubic models, and more degrees in R.
 </p>
 
 So the lineal model explaining happyness on the basis on working hr is:
-
-    happiness=44.83 - 0.13hours
-
+```
+    happiness= 44.83 - 0.13hours
+```
 and the cuadratic model explaining happyness on the basis on working hr is:
-
-happiness=30.88+0.52hours-0.0038hours^2
-
+```
+happiness = 30.88 + 0.52hours - 0.0038hours^2
+```
 and so on for the others
 
