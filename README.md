@@ -22,5 +22,5 @@ ggplot(more.data,aes(working_hr,hap.score))+
   theme_bw(base_size = 18)
 ```
 <p class="aligncenter">
-    <img src="new figure.png" alt="centered image" />
+    <img src="new figure smooth.png" alt="centered image" />
 </p>
