@@ -8,7 +8,7 @@ Fitting different lineal, quadratic and cubic models, and more degrees in R.
 
 So the lineal model explaining happyness on the basis on working hr is:
 
-    *happiness= 44.83 - 0.13hours*
+*happiness= 44.83 - 0.13hours*
 
 and the cuadratic model explaining happyness on the basis on working hr is:
 
@@ -16,7 +16,7 @@ and the cuadratic model explaining happyness on the basis on working hr is:
 
 and so on for the others
 
-
+```
 ggplot(more.data,aes(working_hr,hap.score))+
   geom_point(size=5,shape=1,col="blue")+
   theme_bw(base_size = 18)
