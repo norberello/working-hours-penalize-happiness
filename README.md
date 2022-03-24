@@ -1,4 +1,5 @@
-# working-hours-penalize-happiness
+# Work makes you happy to some extent, if two much could penalize you happiness score
+
 Fitting different lineal, quadratic and cubic models, and more degrees in R.
 
 <p class="aligncenter">
