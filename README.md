@@ -1,4 +1,4 @@
-# Work makes you happy to some extent, if two much could penalize you happiness score
+# Work makes you happy to some extent, two much will penalize your happiness
 
 Fitting different lineal, quadratic and cubic models, and more degrees in R.
 
